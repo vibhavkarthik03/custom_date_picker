@@ -1,0 +1,19 @@
+{
+  "fullName": "Karthik Ramachandran",
+  "calendarWidgets": "Calendar widgets",
+  "withoutPreset": "Without preset",
+  "withFourPresets": "With 4 presets",
+  "withSixPresets": "With 6 presets",
+  "save": "Save",
+  "cancel": "Cancel",
+  "neverEnds": "Never ends",
+  "fifteenDays": "15 days later",
+  "thirtyDays": "30 days later",
+  "sixtyDays": "60 days later",
+  "yesterday": "Yesterday",
+  "today": "Today",
+  "tomorrow": "Tomorrow",
+  "thisSaturday": "This Saturday",
+  "thisSunday": "This Sunday",
+  "nextTuesday": "Next tuesday"
+}
